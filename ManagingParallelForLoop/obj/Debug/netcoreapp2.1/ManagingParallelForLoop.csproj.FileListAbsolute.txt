@@ -1,0 +1,11 @@
+C:\Users\Bob van Beekhoven\source\repos\ManagingParallelForLoop\bin\Debug\netcoreapp2.1\ManagingParallelForLoop.deps.json
+C:\Users\Bob van Beekhoven\source\repos\ManagingParallelForLoop\bin\Debug\netcoreapp2.1\ManagingParallelForLoop.runtimeconfig.json
+C:\Users\Bob van Beekhoven\source\repos\ManagingParallelForLoop\bin\Debug\netcoreapp2.1\ManagingParallelForLoop.runtimeconfig.dev.json
+C:\Users\Bob van Beekhoven\source\repos\ManagingParallelForLoop\bin\Debug\netcoreapp2.1\ManagingParallelForLoop.dll
+C:\Users\Bob van Beekhoven\source\repos\ManagingParallelForLoop\bin\Debug\netcoreapp2.1\ManagingParallelForLoop.pdb
+C:\Users\Bob van Beekhoven\source\repos\ManagingParallelForLoop\obj\Debug\netcoreapp2.1\ManagingParallelForLoop.csprojAssemblyReference.cache
+C:\Users\Bob van Beekhoven\source\repos\ManagingParallelForLoop\obj\Debug\netcoreapp2.1\ManagingParallelForLoop.csproj.CoreCompileInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\ManagingParallelForLoop\obj\Debug\netcoreapp2.1\ManagingParallelForLoop.AssemblyInfoInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\ManagingParallelForLoop\obj\Debug\netcoreapp2.1\ManagingParallelForLoop.AssemblyInfo.cs
+C:\Users\Bob van Beekhoven\source\repos\ManagingParallelForLoop\obj\Debug\netcoreapp2.1\ManagingParallelForLoop.dll
+C:\Users\Bob van Beekhoven\source\repos\ManagingParallelForLoop\obj\Debug\netcoreapp2.1\ManagingParallelForLoop.pdb
