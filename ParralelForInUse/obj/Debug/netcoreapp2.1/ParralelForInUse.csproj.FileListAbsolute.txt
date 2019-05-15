@@ -1,0 +1,10 @@
+C:\Users\Bob van Beekhoven\source\repos\ParralelForInUse\obj\Debug\netcoreapp2.1\ParralelForInUse.csproj.CoreCompileInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\ParralelForInUse\obj\Debug\netcoreapp2.1\ParralelForInUse.AssemblyInfoInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\ParralelForInUse\obj\Debug\netcoreapp2.1\ParralelForInUse.AssemblyInfo.cs
+C:\Users\Bob van Beekhoven\source\repos\ParralelForInUse\bin\Debug\netcoreapp2.1\ParralelForInUse.deps.json
+C:\Users\Bob van Beekhoven\source\repos\ParralelForInUse\bin\Debug\netcoreapp2.1\ParralelForInUse.runtimeconfig.json
+C:\Users\Bob van Beekhoven\source\repos\ParralelForInUse\bin\Debug\netcoreapp2.1\ParralelForInUse.runtimeconfig.dev.json
+C:\Users\Bob van Beekhoven\source\repos\ParralelForInUse\bin\Debug\netcoreapp2.1\ParralelForInUse.dll
+C:\Users\Bob van Beekhoven\source\repos\ParralelForInUse\bin\Debug\netcoreapp2.1\ParralelForInUse.pdb
+C:\Users\Bob van Beekhoven\source\repos\ParralelForInUse\obj\Debug\netcoreapp2.1\ParralelForInUse.dll
+C:\Users\Bob van Beekhoven\source\repos\ParralelForInUse\obj\Debug\netcoreapp2.1\ParralelForInUse.pdb
