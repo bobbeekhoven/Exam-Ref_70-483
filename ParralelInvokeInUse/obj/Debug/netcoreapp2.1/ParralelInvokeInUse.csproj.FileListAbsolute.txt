@@ -1,0 +1,11 @@
+C:\Users\Bob van Beekhoven\source\repos\ParralelInvokeInUse\bin\Debug\netcoreapp2.1\ParralelInvokeInUse.deps.json
+C:\Users\Bob van Beekhoven\source\repos\ParralelInvokeInUse\bin\Debug\netcoreapp2.1\ParralelInvokeInUse.runtimeconfig.json
+C:\Users\Bob van Beekhoven\source\repos\ParralelInvokeInUse\bin\Debug\netcoreapp2.1\ParralelInvokeInUse.runtimeconfig.dev.json
+C:\Users\Bob van Beekhoven\source\repos\ParralelInvokeInUse\bin\Debug\netcoreapp2.1\ParralelInvokeInUse.dll
+C:\Users\Bob van Beekhoven\source\repos\ParralelInvokeInUse\bin\Debug\netcoreapp2.1\ParralelInvokeInUse.pdb
+C:\Users\Bob van Beekhoven\source\repos\ParralelInvokeInUse\obj\Debug\netcoreapp2.1\ParralelInvokeInUse.csprojAssemblyReference.cache
+C:\Users\Bob van Beekhoven\source\repos\ParralelInvokeInUse\obj\Debug\netcoreapp2.1\ParralelInvokeInUse.csproj.CoreCompileInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\ParralelInvokeInUse\obj\Debug\netcoreapp2.1\ParralelInvokeInUse.AssemblyInfoInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\ParralelInvokeInUse\obj\Debug\netcoreapp2.1\ParralelInvokeInUse.AssemblyInfo.cs
+C:\Users\Bob van Beekhoven\source\repos\ParralelInvokeInUse\obj\Debug\netcoreapp2.1\ParralelInvokeInUse.dll
+C:\Users\Bob van Beekhoven\source\repos\ParralelInvokeInUse\obj\Debug\netcoreapp2.1\ParralelInvokeInUse.pdb
