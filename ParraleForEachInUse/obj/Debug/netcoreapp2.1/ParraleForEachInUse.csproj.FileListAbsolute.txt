@@ -1,0 +1,11 @@
+C:\Users\Bob van Beekhoven\source\repos\ParraleForEachInUse\obj\Debug\netcoreapp2.1\ParraleForEachInUse.csprojAssemblyReference.cache
+C:\Users\Bob van Beekhoven\source\repos\ParraleForEachInUse\obj\Debug\netcoreapp2.1\ParraleForEachInUse.csproj.CoreCompileInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\ParraleForEachInUse\obj\Debug\netcoreapp2.1\ParraleForEachInUse.AssemblyInfoInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\ParraleForEachInUse\obj\Debug\netcoreapp2.1\ParraleForEachInUse.AssemblyInfo.cs
+C:\Users\Bob van Beekhoven\source\repos\ParraleForEachInUse\bin\Debug\netcoreapp2.1\ParraleForEachInUse.deps.json
+C:\Users\Bob van Beekhoven\source\repos\ParraleForEachInUse\bin\Debug\netcoreapp2.1\ParraleForEachInUse.runtimeconfig.json
+C:\Users\Bob van Beekhoven\source\repos\ParraleForEachInUse\bin\Debug\netcoreapp2.1\ParraleForEachInUse.runtimeconfig.dev.json
+C:\Users\Bob van Beekhoven\source\repos\ParraleForEachInUse\bin\Debug\netcoreapp2.1\ParraleForEachInUse.dll
+C:\Users\Bob van Beekhoven\source\repos\ParraleForEachInUse\bin\Debug\netcoreapp2.1\ParraleForEachInUse.pdb
+C:\Users\Bob van Beekhoven\source\repos\ParraleForEachInUse\obj\Debug\netcoreapp2.1\ParraleForEachInUse.dll
+C:\Users\Bob van Beekhoven\source\repos\ParraleForEachInUse\obj\Debug\netcoreapp2.1\ParraleForEachInUse.pdb
