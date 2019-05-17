@@ -1,0 +1,11 @@
+C:\Users\Bob van Beekhoven\source\repos\TaskReturningValue\bin\Debug\netcoreapp2.1\TaskReturningValue.deps.json
+C:\Users\Bob van Beekhoven\source\repos\TaskReturningValue\bin\Debug\netcoreapp2.1\TaskReturningValue.runtimeconfig.json
+C:\Users\Bob van Beekhoven\source\repos\TaskReturningValue\bin\Debug\netcoreapp2.1\TaskReturningValue.runtimeconfig.dev.json
+C:\Users\Bob van Beekhoven\source\repos\TaskReturningValue\bin\Debug\netcoreapp2.1\TaskReturningValue.dll
+C:\Users\Bob van Beekhoven\source\repos\TaskReturningValue\bin\Debug\netcoreapp2.1\TaskReturningValue.pdb
+C:\Users\Bob van Beekhoven\source\repos\TaskReturningValue\obj\Debug\netcoreapp2.1\TaskReturningValue.csprojAssemblyReference.cache
+C:\Users\Bob van Beekhoven\source\repos\TaskReturningValue\obj\Debug\netcoreapp2.1\TaskReturningValue.csproj.CoreCompileInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\TaskReturningValue\obj\Debug\netcoreapp2.1\TaskReturningValue.AssemblyInfoInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\TaskReturningValue\obj\Debug\netcoreapp2.1\TaskReturningValue.AssemblyInfo.cs
+C:\Users\Bob van Beekhoven\source\repos\TaskReturningValue\obj\Debug\netcoreapp2.1\TaskReturningValue.dll
+C:\Users\Bob van Beekhoven\source\repos\TaskReturningValue\obj\Debug\netcoreapp2.1\TaskReturningValue.pdb
