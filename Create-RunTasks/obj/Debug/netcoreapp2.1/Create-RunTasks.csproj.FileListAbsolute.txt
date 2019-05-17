@@ -1,0 +1,11 @@
+C:\Users\Bob van Beekhoven\source\repos\Create-RunTasks\bin\Debug\netcoreapp2.1\Create-RunTasks.deps.json
+C:\Users\Bob van Beekhoven\source\repos\Create-RunTasks\bin\Debug\netcoreapp2.1\Create-RunTasks.runtimeconfig.json
+C:\Users\Bob van Beekhoven\source\repos\Create-RunTasks\bin\Debug\netcoreapp2.1\Create-RunTasks.runtimeconfig.dev.json
+C:\Users\Bob van Beekhoven\source\repos\Create-RunTasks\bin\Debug\netcoreapp2.1\Create-RunTasks.dll
+C:\Users\Bob van Beekhoven\source\repos\Create-RunTasks\bin\Debug\netcoreapp2.1\Create-RunTasks.pdb
+C:\Users\Bob van Beekhoven\source\repos\Create-RunTasks\obj\Debug\netcoreapp2.1\Create-RunTasks.csprojAssemblyReference.cache
+C:\Users\Bob van Beekhoven\source\repos\Create-RunTasks\obj\Debug\netcoreapp2.1\Create-RunTasks.csproj.CoreCompileInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\Create-RunTasks\obj\Debug\netcoreapp2.1\Create-RunTasks.AssemblyInfoInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\Create-RunTasks\obj\Debug\netcoreapp2.1\Create-RunTasks.AssemblyInfo.cs
+C:\Users\Bob van Beekhoven\source\repos\Create-RunTasks\obj\Debug\netcoreapp2.1\Create-RunTasks.dll
+C:\Users\Bob van Beekhoven\source\repos\Create-RunTasks\obj\Debug\netcoreapp2.1\Create-RunTasks.pdb
