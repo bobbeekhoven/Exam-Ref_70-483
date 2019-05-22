@@ -1,0 +1,11 @@
+C:\Users\Bob van Beekhoven\source\repos\ParameterizedThreadStart\bin\Debug\netcoreapp2.1\ParameterizedThreadStart.deps.json
+C:\Users\Bob van Beekhoven\source\repos\ParameterizedThreadStart\bin\Debug\netcoreapp2.1\ParameterizedThreadStart.runtimeconfig.json
+C:\Users\Bob van Beekhoven\source\repos\ParameterizedThreadStart\bin\Debug\netcoreapp2.1\ParameterizedThreadStart.runtimeconfig.dev.json
+C:\Users\Bob van Beekhoven\source\repos\ParameterizedThreadStart\bin\Debug\netcoreapp2.1\ParameterizedThreadStart.dll
+C:\Users\Bob van Beekhoven\source\repos\ParameterizedThreadStart\bin\Debug\netcoreapp2.1\ParameterizedThreadStart.pdb
+C:\Users\Bob van Beekhoven\source\repos\ParameterizedThreadStart\obj\Debug\netcoreapp2.1\ParameterizedThreadStart.csprojAssemblyReference.cache
+C:\Users\Bob van Beekhoven\source\repos\ParameterizedThreadStart\obj\Debug\netcoreapp2.1\ParameterizedThreadStart.csproj.CoreCompileInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\ParameterizedThreadStart\obj\Debug\netcoreapp2.1\ParameterizedThreadStart.AssemblyInfoInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\ParameterizedThreadStart\obj\Debug\netcoreapp2.1\ParameterizedThreadStart.AssemblyInfo.cs
+C:\Users\Bob van Beekhoven\source\repos\ParameterizedThreadStart\obj\Debug\netcoreapp2.1\ParameterizedThreadStart.dll
+C:\Users\Bob van Beekhoven\source\repos\ParameterizedThreadStart\obj\Debug\netcoreapp2.1\ParameterizedThreadStart.pdb
