@@ -1,0 +1,11 @@
+C:\Users\Bob van Beekhoven\source\repos\ContinuationTasks\bin\Debug\netcoreapp2.1\ContinuationTasks.deps.json
+C:\Users\Bob van Beekhoven\source\repos\ContinuationTasks\bin\Debug\netcoreapp2.1\ContinuationTasks.runtimeconfig.json
+C:\Users\Bob van Beekhoven\source\repos\ContinuationTasks\bin\Debug\netcoreapp2.1\ContinuationTasks.runtimeconfig.dev.json
+C:\Users\Bob van Beekhoven\source\repos\ContinuationTasks\bin\Debug\netcoreapp2.1\ContinuationTasks.dll
+C:\Users\Bob van Beekhoven\source\repos\ContinuationTasks\bin\Debug\netcoreapp2.1\ContinuationTasks.pdb
+C:\Users\Bob van Beekhoven\source\repos\ContinuationTasks\obj\Debug\netcoreapp2.1\ContinuationTasks.csprojAssemblyReference.cache
+C:\Users\Bob van Beekhoven\source\repos\ContinuationTasks\obj\Debug\netcoreapp2.1\ContinuationTasks.csproj.CoreCompileInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\ContinuationTasks\obj\Debug\netcoreapp2.1\ContinuationTasks.AssemblyInfoInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\ContinuationTasks\obj\Debug\netcoreapp2.1\ContinuationTasks.AssemblyInfo.cs
+C:\Users\Bob van Beekhoven\source\repos\ContinuationTasks\obj\Debug\netcoreapp2.1\ContinuationTasks.dll
+C:\Users\Bob van Beekhoven\source\repos\ContinuationTasks\obj\Debug\netcoreapp2.1\ContinuationTasks.pdb
