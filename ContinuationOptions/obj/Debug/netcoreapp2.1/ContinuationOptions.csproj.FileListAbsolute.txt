@@ -1,0 +1,11 @@
+C:\Users\Bob van Beekhoven\source\repos\ContinuationOptions\bin\Debug\netcoreapp2.1\ContinuationOptions.deps.json
+C:\Users\Bob van Beekhoven\source\repos\ContinuationOptions\bin\Debug\netcoreapp2.1\ContinuationOptions.runtimeconfig.json
+C:\Users\Bob van Beekhoven\source\repos\ContinuationOptions\bin\Debug\netcoreapp2.1\ContinuationOptions.runtimeconfig.dev.json
+C:\Users\Bob van Beekhoven\source\repos\ContinuationOptions\bin\Debug\netcoreapp2.1\ContinuationOptions.dll
+C:\Users\Bob van Beekhoven\source\repos\ContinuationOptions\bin\Debug\netcoreapp2.1\ContinuationOptions.pdb
+C:\Users\Bob van Beekhoven\source\repos\ContinuationOptions\obj\Debug\netcoreapp2.1\ContinuationOptions.csprojAssemblyReference.cache
+C:\Users\Bob van Beekhoven\source\repos\ContinuationOptions\obj\Debug\netcoreapp2.1\ContinuationOptions.csproj.CoreCompileInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\ContinuationOptions\obj\Debug\netcoreapp2.1\ContinuationOptions.AssemblyInfoInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\ContinuationOptions\obj\Debug\netcoreapp2.1\ContinuationOptions.AssemblyInfo.cs
+C:\Users\Bob van Beekhoven\source\repos\ContinuationOptions\obj\Debug\netcoreapp2.1\ContinuationOptions.dll
+C:\Users\Bob van Beekhoven\source\repos\ContinuationOptions\obj\Debug\netcoreapp2.1\ContinuationOptions.pdb
