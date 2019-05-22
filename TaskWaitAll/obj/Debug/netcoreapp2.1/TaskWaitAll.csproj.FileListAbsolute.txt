@@ -1,0 +1,11 @@
+C:\Users\Bob van Beekhoven\source\repos\TaskWaitAll\bin\Debug\netcoreapp2.1\TaskWaitAll.deps.json
+C:\Users\Bob van Beekhoven\source\repos\TaskWaitAll\bin\Debug\netcoreapp2.1\TaskWaitAll.runtimeconfig.json
+C:\Users\Bob van Beekhoven\source\repos\TaskWaitAll\bin\Debug\netcoreapp2.1\TaskWaitAll.runtimeconfig.dev.json
+C:\Users\Bob van Beekhoven\source\repos\TaskWaitAll\bin\Debug\netcoreapp2.1\TaskWaitAll.dll
+C:\Users\Bob van Beekhoven\source\repos\TaskWaitAll\bin\Debug\netcoreapp2.1\TaskWaitAll.pdb
+C:\Users\Bob van Beekhoven\source\repos\TaskWaitAll\obj\Debug\netcoreapp2.1\TaskWaitAll.csprojAssemblyReference.cache
+C:\Users\Bob van Beekhoven\source\repos\TaskWaitAll\obj\Debug\netcoreapp2.1\TaskWaitAll.csproj.CoreCompileInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\TaskWaitAll\obj\Debug\netcoreapp2.1\TaskWaitAll.AssemblyInfoInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\TaskWaitAll\obj\Debug\netcoreapp2.1\TaskWaitAll.AssemblyInfo.cs
+C:\Users\Bob van Beekhoven\source\repos\TaskWaitAll\obj\Debug\netcoreapp2.1\TaskWaitAll.dll
+C:\Users\Bob van Beekhoven\source\repos\TaskWaitAll\obj\Debug\netcoreapp2.1\TaskWaitAll.pdb
