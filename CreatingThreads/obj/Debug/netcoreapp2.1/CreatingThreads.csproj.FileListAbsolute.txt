@@ -1,0 +1,11 @@
+C:\Users\Bob van Beekhoven\source\repos\CreatingThreads\bin\Debug\netcoreapp2.1\CreatingThreads.deps.json
+C:\Users\Bob van Beekhoven\source\repos\CreatingThreads\bin\Debug\netcoreapp2.1\CreatingThreads.runtimeconfig.json
+C:\Users\Bob van Beekhoven\source\repos\CreatingThreads\bin\Debug\netcoreapp2.1\CreatingThreads.runtimeconfig.dev.json
+C:\Users\Bob van Beekhoven\source\repos\CreatingThreads\bin\Debug\netcoreapp2.1\CreatingThreads.dll
+C:\Users\Bob van Beekhoven\source\repos\CreatingThreads\bin\Debug\netcoreapp2.1\CreatingThreads.pdb
+C:\Users\Bob van Beekhoven\source\repos\CreatingThreads\obj\Debug\netcoreapp2.1\CreatingThreads.csprojAssemblyReference.cache
+C:\Users\Bob van Beekhoven\source\repos\CreatingThreads\obj\Debug\netcoreapp2.1\CreatingThreads.csproj.CoreCompileInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\CreatingThreads\obj\Debug\netcoreapp2.1\CreatingThreads.AssemblyInfoInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\CreatingThreads\obj\Debug\netcoreapp2.1\CreatingThreads.AssemblyInfo.cs
+C:\Users\Bob van Beekhoven\source\repos\CreatingThreads\obj\Debug\netcoreapp2.1\CreatingThreads.dll
+C:\Users\Bob van Beekhoven\source\repos\CreatingThreads\obj\Debug\netcoreapp2.1\CreatingThreads.pdb
