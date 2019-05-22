@@ -1,0 +1,11 @@
+C:\Users\Bob van Beekhoven\source\repos\AttachedChildTasks\bin\Debug\netcoreapp2.1\AttachedChildTasks.deps.json
+C:\Users\Bob van Beekhoven\source\repos\AttachedChildTasks\bin\Debug\netcoreapp2.1\AttachedChildTasks.runtimeconfig.json
+C:\Users\Bob van Beekhoven\source\repos\AttachedChildTasks\bin\Debug\netcoreapp2.1\AttachedChildTasks.runtimeconfig.dev.json
+C:\Users\Bob van Beekhoven\source\repos\AttachedChildTasks\bin\Debug\netcoreapp2.1\AttachedChildTasks.dll
+C:\Users\Bob van Beekhoven\source\repos\AttachedChildTasks\bin\Debug\netcoreapp2.1\AttachedChildTasks.pdb
+C:\Users\Bob van Beekhoven\source\repos\AttachedChildTasks\obj\Debug\netcoreapp2.1\AttachedChildTasks.csprojAssemblyReference.cache
+C:\Users\Bob van Beekhoven\source\repos\AttachedChildTasks\obj\Debug\netcoreapp2.1\AttachedChildTasks.csproj.CoreCompileInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\AttachedChildTasks\obj\Debug\netcoreapp2.1\AttachedChildTasks.AssemblyInfoInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\AttachedChildTasks\obj\Debug\netcoreapp2.1\AttachedChildTasks.AssemblyInfo.cs
+C:\Users\Bob van Beekhoven\source\repos\AttachedChildTasks\obj\Debug\netcoreapp2.1\AttachedChildTasks.dll
+C:\Users\Bob van Beekhoven\source\repos\AttachedChildTasks\obj\Debug\netcoreapp2.1\AttachedChildTasks.pdb
