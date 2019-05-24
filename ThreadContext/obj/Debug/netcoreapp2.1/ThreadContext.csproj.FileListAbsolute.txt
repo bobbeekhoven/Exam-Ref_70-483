@@ -1,0 +1,11 @@
+C:\Users\Bob van Beekhoven\source\repos\ThreadContext\bin\Debug\netcoreapp2.1\ThreadContext.deps.json
+C:\Users\Bob van Beekhoven\source\repos\ThreadContext\bin\Debug\netcoreapp2.1\ThreadContext.runtimeconfig.json
+C:\Users\Bob van Beekhoven\source\repos\ThreadContext\bin\Debug\netcoreapp2.1\ThreadContext.runtimeconfig.dev.json
+C:\Users\Bob van Beekhoven\source\repos\ThreadContext\bin\Debug\netcoreapp2.1\ThreadContext.dll
+C:\Users\Bob van Beekhoven\source\repos\ThreadContext\bin\Debug\netcoreapp2.1\ThreadContext.pdb
+C:\Users\Bob van Beekhoven\source\repos\ThreadContext\obj\Debug\netcoreapp2.1\ThreadContext.csprojAssemblyReference.cache
+C:\Users\Bob van Beekhoven\source\repos\ThreadContext\obj\Debug\netcoreapp2.1\ThreadContext.csproj.CoreCompileInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\ThreadContext\obj\Debug\netcoreapp2.1\ThreadContext.AssemblyInfoInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\ThreadContext\obj\Debug\netcoreapp2.1\ThreadContext.AssemblyInfo.cs
+C:\Users\Bob van Beekhoven\source\repos\ThreadContext\obj\Debug\netcoreapp2.1\ThreadContext.dll
+C:\Users\Bob van Beekhoven\source\repos\ThreadContext\obj\Debug\netcoreapp2.1\ThreadContext.pdb
