@@ -1,0 +1,11 @@
+C:\Users\Bob van Beekhoven\source\repos\ThreadPool\bin\Debug\netcoreapp2.1\ThreadPool.deps.json
+C:\Users\Bob van Beekhoven\source\repos\ThreadPool\bin\Debug\netcoreapp2.1\ThreadPool.runtimeconfig.json
+C:\Users\Bob van Beekhoven\source\repos\ThreadPool\bin\Debug\netcoreapp2.1\ThreadPool.runtimeconfig.dev.json
+C:\Users\Bob van Beekhoven\source\repos\ThreadPool\bin\Debug\netcoreapp2.1\ThreadPool.dll
+C:\Users\Bob van Beekhoven\source\repos\ThreadPool\bin\Debug\netcoreapp2.1\ThreadPool.pdb
+C:\Users\Bob van Beekhoven\source\repos\ThreadPool\obj\Debug\netcoreapp2.1\ThreadPool.csprojAssemblyReference.cache
+C:\Users\Bob van Beekhoven\source\repos\ThreadPool\obj\Debug\netcoreapp2.1\ThreadPool.csproj.CoreCompileInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\ThreadPool\obj\Debug\netcoreapp2.1\ThreadPool.AssemblyInfoInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\ThreadPool\obj\Debug\netcoreapp2.1\ThreadPool.AssemblyInfo.cs
+C:\Users\Bob van Beekhoven\source\repos\ThreadPool\obj\Debug\netcoreapp2.1\ThreadPool.dll
+C:\Users\Bob van Beekhoven\source\repos\ThreadPool\obj\Debug\netcoreapp2.1\ThreadPool.pdb
