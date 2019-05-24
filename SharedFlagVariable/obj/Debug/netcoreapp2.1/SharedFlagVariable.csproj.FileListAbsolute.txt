@@ -1,0 +1,11 @@
+C:\Users\Bob van Beekhoven\source\repos\SharedFlagVariable\bin\Debug\netcoreapp2.1\SharedFlagVariable.deps.json
+C:\Users\Bob van Beekhoven\source\repos\SharedFlagVariable\bin\Debug\netcoreapp2.1\SharedFlagVariable.runtimeconfig.json
+C:\Users\Bob van Beekhoven\source\repos\SharedFlagVariable\bin\Debug\netcoreapp2.1\SharedFlagVariable.runtimeconfig.dev.json
+C:\Users\Bob van Beekhoven\source\repos\SharedFlagVariable\bin\Debug\netcoreapp2.1\SharedFlagVariable.dll
+C:\Users\Bob van Beekhoven\source\repos\SharedFlagVariable\bin\Debug\netcoreapp2.1\SharedFlagVariable.pdb
+C:\Users\Bob van Beekhoven\source\repos\SharedFlagVariable\obj\Debug\netcoreapp2.1\SharedFlagVariable.csprojAssemblyReference.cache
+C:\Users\Bob van Beekhoven\source\repos\SharedFlagVariable\obj\Debug\netcoreapp2.1\SharedFlagVariable.csproj.CoreCompileInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\SharedFlagVariable\obj\Debug\netcoreapp2.1\SharedFlagVariable.AssemblyInfoInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\SharedFlagVariable\obj\Debug\netcoreapp2.1\SharedFlagVariable.AssemblyInfo.cs
+C:\Users\Bob van Beekhoven\source\repos\SharedFlagVariable\obj\Debug\netcoreapp2.1\SharedFlagVariable.dll
+C:\Users\Bob van Beekhoven\source\repos\SharedFlagVariable\obj\Debug\netcoreapp2.1\SharedFlagVariable.pdb
