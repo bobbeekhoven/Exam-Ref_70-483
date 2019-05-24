@@ -1,0 +1,11 @@
+C:\Users\Bob van Beekhoven\source\repos\AbortingAThread\bin\Debug\netcoreapp2.1\AbortingAThread.deps.json
+C:\Users\Bob van Beekhoven\source\repos\AbortingAThread\bin\Debug\netcoreapp2.1\AbortingAThread.runtimeconfig.json
+C:\Users\Bob van Beekhoven\source\repos\AbortingAThread\bin\Debug\netcoreapp2.1\AbortingAThread.runtimeconfig.dev.json
+C:\Users\Bob van Beekhoven\source\repos\AbortingAThread\bin\Debug\netcoreapp2.1\AbortingAThread.dll
+C:\Users\Bob van Beekhoven\source\repos\AbortingAThread\bin\Debug\netcoreapp2.1\AbortingAThread.pdb
+C:\Users\Bob van Beekhoven\source\repos\AbortingAThread\obj\Debug\netcoreapp2.1\AbortingAThread.csprojAssemblyReference.cache
+C:\Users\Bob van Beekhoven\source\repos\AbortingAThread\obj\Debug\netcoreapp2.1\AbortingAThread.csproj.CoreCompileInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\AbortingAThread\obj\Debug\netcoreapp2.1\AbortingAThread.AssemblyInfoInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\AbortingAThread\obj\Debug\netcoreapp2.1\AbortingAThread.AssemblyInfo.cs
+C:\Users\Bob van Beekhoven\source\repos\AbortingAThread\obj\Debug\netcoreapp2.1\AbortingAThread.dll
+C:\Users\Bob van Beekhoven\source\repos\AbortingAThread\obj\Debug\netcoreapp2.1\AbortingAThread.pdb
