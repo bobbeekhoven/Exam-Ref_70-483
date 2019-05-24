@@ -1,0 +1,11 @@
+C:\Users\Bob van Beekhoven\source\repos\ThreadLocal\bin\Debug\netcoreapp2.1\ThreadLocal.deps.json
+C:\Users\Bob van Beekhoven\source\repos\ThreadLocal\bin\Debug\netcoreapp2.1\ThreadLocal.runtimeconfig.json
+C:\Users\Bob van Beekhoven\source\repos\ThreadLocal\bin\Debug\netcoreapp2.1\ThreadLocal.runtimeconfig.dev.json
+C:\Users\Bob van Beekhoven\source\repos\ThreadLocal\bin\Debug\netcoreapp2.1\ThreadLocal.dll
+C:\Users\Bob van Beekhoven\source\repos\ThreadLocal\bin\Debug\netcoreapp2.1\ThreadLocal.pdb
+C:\Users\Bob van Beekhoven\source\repos\ThreadLocal\obj\Debug\netcoreapp2.1\ThreadLocal.csprojAssemblyReference.cache
+C:\Users\Bob van Beekhoven\source\repos\ThreadLocal\obj\Debug\netcoreapp2.1\ThreadLocal.csproj.CoreCompileInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\ThreadLocal\obj\Debug\netcoreapp2.1\ThreadLocal.AssemblyInfoInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\ThreadLocal\obj\Debug\netcoreapp2.1\ThreadLocal.AssemblyInfo.cs
+C:\Users\Bob van Beekhoven\source\repos\ThreadLocal\obj\Debug\netcoreapp2.1\ThreadLocal.dll
+C:\Users\Bob van Beekhoven\source\repos\ThreadLocal\obj\Debug\netcoreapp2.1\ThreadLocal.pdb
