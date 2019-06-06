@@ -1,0 +1,15 @@
+C:\Users\Bob van Beekhoven\source\repos\WebpageViewer\bin\Debug\WebpageViewer.exe.config
+C:\Users\Bob van Beekhoven\source\repos\WebpageViewer\bin\Debug\WebpageViewer.exe
+C:\Users\Bob van Beekhoven\source\repos\WebpageViewer\bin\Debug\WebpageViewer.pdb
+C:\Users\Bob van Beekhoven\source\repos\WebpageViewer\obj\Debug\WebpageViewer.csprojAssemblyReference.cache
+C:\Users\Bob van Beekhoven\source\repos\WebpageViewer\obj\Debug\MainWindow.g.cs
+C:\Users\Bob van Beekhoven\source\repos\WebpageViewer\obj\Debug\App.g.cs
+C:\Users\Bob van Beekhoven\source\repos\WebpageViewer\obj\Debug\WebpageViewer_MarkupCompile.cache
+C:\Users\Bob van Beekhoven\source\repos\WebpageViewer\obj\Debug\WebpageViewer_MarkupCompile.lref
+C:\Users\Bob van Beekhoven\source\repos\WebpageViewer\obj\Debug\MainWindow.baml
+C:\Users\Bob van Beekhoven\source\repos\WebpageViewer\obj\Debug\WebpageViewer.g.resources
+C:\Users\Bob van Beekhoven\source\repos\WebpageViewer\obj\Debug\WebpageViewer.Properties.Resources.resources
+C:\Users\Bob van Beekhoven\source\repos\WebpageViewer\obj\Debug\WebpageViewer.csproj.GenerateResource.cache
+C:\Users\Bob van Beekhoven\source\repos\WebpageViewer\obj\Debug\WebpageViewer.csproj.CoreCompileInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\WebpageViewer\obj\Debug\WebpageViewer.exe
+C:\Users\Bob van Beekhoven\source\repos\WebpageViewer\obj\Debug\WebpageViewer.pdb
