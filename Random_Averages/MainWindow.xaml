@@ -1,0 +1,17 @@
+﻿<Window x:Class="Random_Averages.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Random_Averages"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="resultTextBlock">
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Random Averages" VerticalAlignment="Top" Margin="186,62,0,0" Height="45" Width="385"/>
+        <TextBox x:Name="NumberOfValuesTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="1.004,3.336" Margin="362,131,0,0" AutomationProperties.Name="NumberOfValuesTextbox"/>
+        <Button Content="Start" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="317,208,0,0" Click="Button_Click"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="342,264,0,0"/>
+        <TextBlock x:Name="ResultTextBlock" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="362,267,0,0" Height="13" Width="120"/>
+
+    </Grid>
+</Window>

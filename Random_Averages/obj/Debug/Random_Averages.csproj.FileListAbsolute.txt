@@ -1,0 +1,15 @@
+C:\Users\Bob van Beekhoven\source\repos\Random_Averages\bin\Debug\Random_Averages.exe.config
+C:\Users\Bob van Beekhoven\source\repos\Random_Averages\bin\Debug\Random_Averages.exe
+C:\Users\Bob van Beekhoven\source\repos\Random_Averages\bin\Debug\Random_Averages.pdb
+C:\Users\Bob van Beekhoven\source\repos\Random_Averages\obj\Debug\Random_Averages.csprojAssemblyReference.cache
+C:\Users\Bob van Beekhoven\source\repos\Random_Averages\obj\Debug\MainWindow.g.cs
+C:\Users\Bob van Beekhoven\source\repos\Random_Averages\obj\Debug\App.g.cs
+C:\Users\Bob van Beekhoven\source\repos\Random_Averages\obj\Debug\Random_Averages_MarkupCompile.cache
+C:\Users\Bob van Beekhoven\source\repos\Random_Averages\obj\Debug\Random_Averages_MarkupCompile.lref
+C:\Users\Bob van Beekhoven\source\repos\Random_Averages\obj\Debug\MainWindow.baml
+C:\Users\Bob van Beekhoven\source\repos\Random_Averages\obj\Debug\Random_Averages.g.resources
+C:\Users\Bob van Beekhoven\source\repos\Random_Averages\obj\Debug\Random_Averages.Properties.Resources.resources
+C:\Users\Bob van Beekhoven\source\repos\Random_Averages\obj\Debug\Random_Averages.csproj.GenerateResource.cache
+C:\Users\Bob van Beekhoven\source\repos\Random_Averages\obj\Debug\Random_Averages.csproj.CoreCompileInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\Random_Averages\obj\Debug\Random_Averages.exe
+C:\Users\Bob van Beekhoven\source\repos\Random_Averages\obj\Debug\Random_Averages.pdb
