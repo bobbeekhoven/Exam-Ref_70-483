@@ -1,0 +1,11 @@
+C:\Users\Bob van Beekhoven\source\repos\UsingBlockingCollection\bin\Debug\netcoreapp2.1\UsingBlockingCollection.deps.json
+C:\Users\Bob van Beekhoven\source\repos\UsingBlockingCollection\bin\Debug\netcoreapp2.1\UsingBlockingCollection.runtimeconfig.json
+C:\Users\Bob van Beekhoven\source\repos\UsingBlockingCollection\bin\Debug\netcoreapp2.1\UsingBlockingCollection.runtimeconfig.dev.json
+C:\Users\Bob van Beekhoven\source\repos\UsingBlockingCollection\bin\Debug\netcoreapp2.1\UsingBlockingCollection.dll
+C:\Users\Bob van Beekhoven\source\repos\UsingBlockingCollection\bin\Debug\netcoreapp2.1\UsingBlockingCollection.pdb
+C:\Users\Bob van Beekhoven\source\repos\UsingBlockingCollection\obj\Debug\netcoreapp2.1\UsingBlockingCollection.csprojAssemblyReference.cache
+C:\Users\Bob van Beekhoven\source\repos\UsingBlockingCollection\obj\Debug\netcoreapp2.1\UsingBlockingCollection.csproj.CoreCompileInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\UsingBlockingCollection\obj\Debug\netcoreapp2.1\UsingBlockingCollection.AssemblyInfoInputs.cache
+C:\Users\Bob van Beekhoven\source\repos\UsingBlockingCollection\obj\Debug\netcoreapp2.1\UsingBlockingCollection.AssemblyInfo.cs
+C:\Users\Bob van Beekhoven\source\repos\UsingBlockingCollection\obj\Debug\netcoreapp2.1\UsingBlockingCollection.dll
+C:\Users\Bob van Beekhoven\source\repos\UsingBlockingCollection\obj\Debug\netcoreapp2.1\UsingBlockingCollection.pdb
